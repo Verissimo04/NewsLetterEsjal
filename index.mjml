@@ -2,28 +2,30 @@
 
   <mj-head>
 
+    <mj-title>Dispositivos móveis em viage</mj-title>
     <mj-attributes>
-      <mj-text align="center" color="#555" />
-      <mj-section background-color="#fff" />
-    </mj-attributes>
+      <mj-all font-family="'italic'"></mj-all>
 
   </mj-head>
-
-  <mj-body background-color="#eee">
-    <mj-section>
-
-      <mj-column>
-        <mj-text>
-          F
-        </mj-text>
+  <mj-body background-color="#CFB284" >
+    <mj-section full-width="full-width">
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="left" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">[[HEADLINE]]</span></mj-text>
       </mj-column>
-
-      <mj-column>
-        <mj-text>
-          Second column
-        </mj-text>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="https://mjml.io" style="text-decoration: none; color: inherit;">PERMALINK_LABEL</a></span></mj-text>
       </mj-column>
-
+    <mj-section >
+    <mj-column width="70%">
+      <mj-text align="center" color="black" font-size="15px"><span style="font-size: 17px; color: black"><b>Boas práticas para a utilização de dispositivos móveis em viagem</b></span><br /><br /></mj-text>
+      </mj-column>
     </mj-section>
+    <mj-section >
+      <mj-column width="100%">
+        <mj-image src="segura.png" />
+      </mj-column>
+    </mj-section>
+    
+
   </mj-body>
 </mjml>
