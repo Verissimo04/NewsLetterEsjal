@@ -8,23 +8,127 @@
 
   </mj-head>
   <mj-body background-color="#CFB284" >
-    <mj-section full-width="full-width">
-      <mj-column width="66.66666666666666%" vertical-align="middle">
-        <mj-text align="left" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">[[HEADLINE]]</span></mj-text>
+    <mj-section background-url="https://drive.google.com/uc?id=1ILnIwdlOW7ttXjEBr2wPPmZcq9Uke7di" >
+    <mj-column width="80%">
+      <mj-text align="center" color="black" font-size="15px"><span style="font-size: 21px; color: black"><b>Boas práticas para a utilização de dispositivos móveis em viagem</b></span><br /><br /></mj-text>
+      <mj-text align="center" color="black" font-size="17px" line-height="20px">Atualmente a necessidade de estarmos sempre contactáveis e de ter a informação sempre à mão faz com que a utilização de smartphones ,computadores e tablets.</mj-text>
       </mj-column>
-      <mj-column width="33.33333333333333%" vertical-align="middle">
-        <mj-text align="right" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="https://mjml.io" style="text-decoration: none; color: inherit;">PERMALINK_LABEL</a></span></mj-text>
+    </mj-section >
+    <mj-section padding="0px" >
+      <mj-column>
+     	<mj-divider border-width="2px" border-style="solid" border-color="white" />
+        <mj-image src="https://drive.google.com/uc?id=1N4DP7aQWpZ45KYOBd0TS4zfSP635G5Mc" alt="seguranca digital" />
       </mj-column>
-    <mj-section >
-    <mj-column width="70%">
-      <mj-text align="center" color="black" font-size="15px"><span style="font-size: 17px; color: black"><b>Boas práticas para a utilização de dispositivos móveis em viagem</b></span><br /><br /></mj-text>
+    </mj-section >
+      <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">No  entanto,  esta  conectividade  entre  todos  os  dispositivos  pode  trazer  alguns riscos  de  segurança.  Algumas  das  informações  armazenadas  nos  dispositivos móveis,  podem  ser  sensíveis  e  de  grande  importância</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section >
-      <mj-column width="100%">
-        <mj-image src="segura.png" />
+    <mj-section padding="0px">
+      <mj-column >
+     	<mj-divider border-width="2px" border-style="solid" border-color="white" />
+        <mj-text align="center" color="black" font-size="20px" line-height="25px">Antes de sair do país</mj-text>
       </mj-column>
     </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+     	
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Leia e siga atentamente as normas de segurança estabelecidas pela sua organização.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Esteja ciente das leis locais.Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Selecione os equipamentos que vai usar nas viagens, estes equipamentos não devem conter qualquer informação para além da que será necessária na viagem.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Faça backupdos seus dados e deixe o backupnum local seguroIsto irá salvaguardar a sua informação em caso de perda, roubo ou apreensão do seu equipamento.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Faça backupdos seus dados e deixe o backupnum local seguroIsto irá salvaguardar a sua informação em caso de perda, roubo ou apreensão do seu equipamento.</mj-text>
+        <mj-divider border-width="2px" border-style="solid" border-color="white" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="center" color="black" font-size="20px" line-height="25px">Durante a viagem</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+     	
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Não conecte perifericos ou outros dispositivos que nao sejam confiaveis aos seus.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Proteja o acesso aos seus dispositivos com passwords fortes.
+É importante reforçar a seguranca das passwords e utilizar combinações de letras, numeros e simbolos.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Limpar o historico de chamadas e navegacão. Além do historico, apague os dados de em cache, cookies e senhas de acesso.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">-Não carregue os seus dispositivos nos terminais eletricos de self service. Alguns destes terminais podem ser concebidos ou estar comprometidos, de forma a copiar documentos sem o seu conhecimento.</mj-text>
+        <mj-divider border-width="2px" border-style="solid" border-color="white" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="center" color="black" font-size="20px" line-height="25px">Antes da viagem de volta</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+     	
+        <mj-text align="left" color="black" font-size="16px" line-height="20px"><b>-Transfira os deus dados</b>, na rede da sua entidade, utilizando uma ligação segura.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px">- Se não tiver uma caixa de correio eletrónico específica para receber arquivos. Apague os dados do seu dispositivo, de forma segura, com software próprio.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px"><b>-Limpe o histórico das chamadas e pesquisas</b>-Em todos os seus dispositivos móveis (ex. tablets, telefone, computador), limpe o histórico de utilização.</mj-text>
+        <mj-divider border-width="2px" border-style="solid" border-color="white" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" >
+      <mj-column>
+        <mj-text align="center" color="black" font-size="20px" line-height="25px">Depois da viagem de volta</mj-text>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px"><b>-Mude todas as passwords que usou durante a viagem</b>-Podem ter sido intercetadas sem o seu conhecimento.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="16px" line-height="20px"><b>-Analise o seu equipamento</b>-Não ligue os dispositivos à rede da sua organização sem antes ter feito,pelo menos,um teste de antivírus e anti-spyware.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+     	<mj-divider border-width="7px" border-style="solid" border-color="white" />
+        <mj-image align="left" width="200px" src="https://drive.google.com/uc?id=1m3m2qAzmKkfmLADyrLQq4D-gntG4L3c1" />
+        <mj-text align="right" color="black" font-size="10px" line-height="20px">Inovar +AZ - Sistemas de Informação © 2019 - Todos os direitos reservados
+www.inovar-mais.pt</mj-text>
+      </mj-column>
+    </mj-section>
+    
+      
     
 
   </mj-body>

@@ -1,0 +1,154 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-title>Dispositivos móveis em viage</mj-title>
+    <mj-attributes>
+      <mj-all font-family="'italic'"></mj-all>
+
+  </mj-head>
+  <mj-body >
+    <mj-section background-color="#f2ebe0" >
+    <mj-column width="80%">
+      <mj-divider border-width="5px" border-style="solid" border-color="black" />
+      <mj-text align="center" color="black" font-size="15px"><span style="font-size: 35px; color: black"><b>Boas práticas para a utilização de dispositivos móveis em viagem</b></span><br /><br /></mj-text>
+      <mj-divider border-width="5px" border-style="solid" border-color="black" />
+      </mj-column>
+    </mj-section >
+    <mj-section background-color="#f2ebe0" padding="0px" >
+      <mj-column>	
+             <mj-divider border-width="4px" border-style="solid" border-color="#f9f6f0" />
+         <mj-text  align="center" color="black" font-size="23px" line-height="20px">Atualmente a necessidade de estarmos sempre contactáveis e de ter a informação sempre à mão faz com que a utilização de smartphones, computadores e tablets.</mj-text>
+
+     	<mj-divider border-width="3px" border-style="solid" border-color="black" />
+        
+        <mj-image src="https://drive.google.com/uc?id=1N4DP7aQWpZ45KYOBd0TS4zfSP635G5Mc" alt="seguranca digital" />
+        <mj-divider border-width="3px" border-style="solid" border-color="black" />
+         <mj-text></mj-text>
+      </mj-column>
+      
+    </mj-section >
+      <mj-section background-color="#CFB284" padding="0px">
+      <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="#f9f6f0" />
+        <mj-text align="left" color="black" font-size="20px" line-height="20px">No entanto, esta conectividade entre todos os dispositivos pode trazer  alguns riscos de segurança. Algumas das informações armazenadas  nos  dispositivos móveis,  podem ser sensíveis e de grande importância</mj-text>
+        <mj-divider border-width="2px" border-style="solid" border-color="#f9f6f0" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f2ebe0" padding="0px">
+      <mj-column>
+     	<mj-divider border-width="3px" border-style="solid" border-color="black" />
+        <mj-text align="center" color="black" font-size="30px" line-height="25px">Antes de sair do país</mj-text>
+        <mj-divider border-width="3px" border-style="solid" border-color="black" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284" padding="0px">
+      <mj-column>
+     		<mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Leia e siga atentamente as normas de segurança estabelecidas pela sua organização.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284" padding="0px">
+      <mj-column>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Esteja ciente das leis locais.Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284" padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Selecione os equipamentos que vai usar nas viagens, estes equipamentos não devem conter qualquer informação para além da que será necessária na viagem.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284" padding="0px" >
+      <mj-column width="50%">
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Faça backupdos seus dados e deixe o backupnum local seguroIsto irá salvaguardar a sua informação em caso de perda, roubo ou apreensão do seu equipamento.</mj-text>
+        <mj-image src="https://drive.google.com/uc?id=1qnatxTVDmKJoc1fc0rXP9HHPY9ubiV6m" alt="seguranca digital" />
+        <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f2ebe0" padding="0px">
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="black" />
+        <mj-text align="center" color="black" font-size="30px" line-height="25px">Durante a viagem</mj-text>
+        <mj-divider border-width="3px" border-style="solid" border-color="black" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284" padding="0px">
+      <mj-column>
+     		<mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Não conecte perifericos ou outros dispositivos que nao sejam confiaveis aos seus.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284" padding="0px">
+      <mj-column>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Proteja o acesso aos seus dispositivos com passwords fortes.
+É importante reforçar a seguranca das passwords e utilizar combinações de letras, numeros e simbolos.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284" padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Limpar o historico de chamadas e navegacão. Além do historico, apague os dados de em cache, cookies e senhas de acesso.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284" padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Não carregue os seus dispositivos nos terminais eletricos de self service. Alguns destes terminais podem ser concebidos ou estar comprometidos, de forma a copiar documentos sem o seu conhecimento.</mj-text>
+        <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f2ebe0"  padding="0px">
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="black" />
+        <mj-text align="center" color="black" font-size="30px" line-height="25px">Antes da viagem de volta</mj-text>
+        <mj-divider border-width="3px" border-style="solid" border-color="black" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284"  padding="0px">
+      <mj-column>
+     		 <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+        <mj-text align="left" color="black" font-size="18px" line-height="20px"><b>-Transfira os deus dados</b>, na rede da sua entidade, utilizando uma ligação segura.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284"  padding="0px">
+      <mj-column>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">- Se não tiver uma caixa de correio eletrónico específica para receber arquivos. Apague os dados do seu dispositivo, de forma segura, com software próprio.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284"  padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px"><b>-Limpe o histórico das chamadas e pesquisas</b>-Em todos os seus dispositivos móveis (ex. tablets, telefone, computador), limpe o histórico de utilização.</mj-text>
+         <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f2ebe0" padding="0px" >
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="black" />
+        <mj-text align="center" color="black" font-size="30px" line-height="25px">Depois da viagem de volta</mj-text>
+        <mj-divider border-width="3px" border-style="solid" border-color="black" />
+        </mj-column>
+     </mj-section>
+    <mj-section background-color="#CFB284" padding="0px">
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+        <mj-text align="left" color="black" font-size="18px" line-height="20px"><b>-Mude todas as passwords que usou durante a viagem</b>-Podem ter sido intercetadas sem o seu conhecimento.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#CFB284"  padding="0px" >
+      <mj-column>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px"><b>-Analise o seu equipamento</b>-Não ligue os dispositivos à rede da sua organização sem antes ter feito,pelo menos,um teste de antivírus e anti-spyware.</mj-text>
+        <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+     	<mj-divider border-width="7px" border-style="solid" />
+        <mj-image align="left" width="200px" src="https://drive.google.com/uc?id=1m3m2qAzmKkfmLADyrLQq4D-gntG4L3c1" />
+        <mj-text align="right" color="black" font-size="10px" line-height="20px">Inovar +AZ - Sistemas de Informação © 2019 - Todos os direitos reservados
+www.inovar-mais.pt</mj-text>
+      </mj-column>
+    </mj-section>
+    
+      
+    
+
+  </mj-body>
+</mjml>
