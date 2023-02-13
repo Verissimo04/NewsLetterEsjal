@@ -8,6 +8,11 @@
 
   </mj-head>
   <mj-body >
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image href="https://www.cncs.gov.pt" align="center" width="300px" src="https://drive.google.com/uc?id=1U1_WUAJjegTJgJHCa2Wh33qe3FnPRE5Q" />
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#f2ebe0" >
     <mj-column width="80%">
       <mj-divider border-width="5px" border-style="solid" border-color="black" />
@@ -113,7 +118,7 @@
     <mj-section background-color="#CFB284"  padding="0px">
       <mj-column>
      		 <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
-        <mj-text align="left" color="black" font-size="18px" line-height="20px"><b>-Transfira os deus dados</b>, na rede da sua entidade, utilizando uma ligação segura.</mj-text>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px"><b>-Transfira os seus dados</b>, na rede da sua entidade, utilizando uma ligação segura.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#CFB284"  padding="0px">
@@ -146,9 +151,10 @@
         <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
       </mj-column>
     </mj-section>
+  
     <mj-section padding="0px">
       <mj-column>
-     	<mj-divider border-width="7px" border-style="solid" />
+     	<mj-divider border-width="2px" border-style="solid" />
         <mj-image href="https://www.esjaloures.org" align="left" width="200px" src="https://drive.google.com/uc?id=1m3m2qAzmKkfmLADyrLQq4D-gntG4L3c1" />
         <mj-text align="right" color="black" font-size="10px" line-height="20px">Inovar +AZ - Sistemas de Informação © 2019 - Todos os direitos reservados
 www.inovar-mais.pt</mj-text>
