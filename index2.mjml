@@ -17,7 +17,7 @@
     </mj-section >
     <mj-section background-color="#f2ebe0" padding="0px" >
       <mj-column>	
-             <mj-divider border-width="4px" border-style="solid" border-color="#f9f6f0" />
+             <mj-divider border-width="4px" border-style="solid" border-color=black />
          <mj-text  align="center" color="black" font-size="23px" line-height="20px">Atualmente a necessidade de estarmos sempre contactáveis e de ter a informação sempre à mão faz com que a utilização de smartphones, computadores e tablets.</mj-text>
 
      	<mj-divider border-width="3px" border-style="solid" border-color="black" />
@@ -26,12 +26,11 @@
         <mj-divider border-width="3px" border-style="solid" border-color="black" />
          <mj-text></mj-text>
       </mj-column>
-      
     </mj-section >
       <mj-section background-color="#CFB284" padding="0px">
       <mj-column>
         <mj-divider border-width="2px" border-style="solid" border-color="#f9f6f0" />
-        <mj-text align="left" color="black" font-size="20px" line-height="20px">No entanto, esta conectividade entre todos os dispositivos pode trazer  alguns riscos de segurança. Algumas das informações armazenadas  nos  dispositivos móveis,  podem ser sensíveis e de grande importância</mj-text>
+        <mj-text align="left" color="black" font-size="20px" line-height="20px">No entanto, esta conectividade entre todos os dispositivos pode trazer  alguns riscos de segurança. Algumas das informações armazenadas  nos  dispositivos móveis,  podem ser sensíveis e de grande importância.</mj-text>
         <mj-divider border-width="2px" border-style="solid" border-color="#f9f6f0" />
       </mj-column>
     </mj-section>
@@ -50,7 +49,7 @@
     </mj-section>
     <mj-section background-color="#CFB284" padding="0px">
       <mj-column>
-        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Esteja ciente das leis locais.Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</mj-text>
+        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Esteja ciente das leis locais. Procure informações sobre os controlos nas fronteiras e importação ou sobre uso de criptografia.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#CFB284" padding="0px" >
@@ -59,10 +58,13 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#CFB284" padding="0px" >
-      <mj-column width="50%">
-        <mj-text align="left" color="black" font-size="18px" line-height="20px">-Faça backupdos seus dados e deixe o backupnum local seguroIsto irá salvaguardar a sua informação em caso de perda, roubo ou apreensão do seu equipamento.</mj-text>
+      <mj-column >
+        <mj-text color="black" font-size="18px" line-height="20px">-Faça backup dos seus dados e deixe o backup num local seguro. Isto irá salvaguardar a sua informação em caso de perda, roubo ou apreensão do seu equipamento.</mj-text>
+        </mj-column>
+        <mj-column >
         <mj-image src="https://drive.google.com/uc?id=1qnatxTVDmKJoc1fc0rXP9HHPY9ubiV6m" alt="seguranca digital" />
         <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
+          
       </mj-column>
     </mj-section>
     <mj-section background-color="#f2ebe0" padding="0px">
@@ -95,6 +97,12 @@
         <mj-divider border-width="3px" border-style="solid" border-color="#f9f6f0" />
       </mj-column>
     </mj-section>
+    <mj-section background-color="#f2ebe0" padding="0px" >
+      <mj-column>	
+        <mj-image src="https://drive.google.com/uc?id=1jWyBACsggCCSwgGBeaBlaLnW1ZLgyZOg" alt="seguranca digital" />
+      </mj-column>
+      
+    </mj-section >
     <mj-section background-color="#f2ebe0"  padding="0px">
       <mj-column>
         <mj-divider border-width="3px" border-style="solid" border-color="black" />
@@ -141,7 +149,7 @@
     <mj-section padding="0px">
       <mj-column>
      	<mj-divider border-width="7px" border-style="solid" />
-        <mj-image align="left" width="200px" src="https://drive.google.com/uc?id=1m3m2qAzmKkfmLADyrLQq4D-gntG4L3c1" />
+        <mj-image href="https://www.esjaloures.org" align="left" width="200px" src="https://drive.google.com/uc?id=1m3m2qAzmKkfmLADyrLQq4D-gntG4L3c1" />
         <mj-text align="right" color="black" font-size="10px" line-height="20px">Inovar +AZ - Sistemas de Informação © 2019 - Todos os direitos reservados
 www.inovar-mais.pt</mj-text>
       </mj-column>
